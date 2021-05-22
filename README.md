@@ -8,7 +8,7 @@ A video streaming app developed with React and Django REST Framework.
 - Email verification
 - Password Management
 - Client-server architecture
-- Micro-service oriented
+- Micro-service oriented architecture
 - Implementation of Message Queuing with Redis, Celery, RabitMQ
 - Backend with Django REST Framework
 - Frontend with React
@@ -16,7 +16,7 @@ A video streaming app developed with React and Django REST Framework.
 - CircleCI for continuous integration and continuous deployment
 - Django REST Testing framework for backend Testing
 - Selenium for UI testing
-- Content content_providers can upload movies, series, etc.
+- content_providers can upload movies, series, etc.
 - Managers can approve or reject.
 - Users can take subscriptions.
 - Payment management.
